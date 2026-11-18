@@ -80,8 +80,8 @@ export default function Lista({navigation}){
       />
     </View>
     );
-}
-
+  }
+  
   const styles = StyleSheet.create({
     listaContainer: {
       flex: 1,
